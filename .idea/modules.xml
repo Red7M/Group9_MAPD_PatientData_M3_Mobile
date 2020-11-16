@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Group9_MAPD713_PatientData_M3.iml" filepath="$PROJECT_DIR$/.idea/modules/Group9_MAPD713_PatientData_M3.iml" group="Group9_MAPD713_PatientData_M3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Group9_MAPD713_PatientData_M3/app" />
+    </modules>
+  </component>
+</project>
